@@ -4,11 +4,18 @@
 	"main": "index.ts",
 	"author": "ironstein0 <riyansh.karani.011235@gmail.com>",
 	"license": "MIT",
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc -w"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:ironstein-jarvis/shared.git"
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/"
+	},
+	"devDependencies": {
+		"typescript": "^3.9.2"
 	}
 }
