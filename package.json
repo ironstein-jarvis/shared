@@ -1,6 +1,6 @@
 {
 	"name": "@ironstein-jarvis/shared",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.ts",
 	"author": "ironstein0 <riyansh.karani.011235@gmail.com>",
 	"license": "MIT",
