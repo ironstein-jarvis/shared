@@ -1,7 +1,8 @@
 {
 	"name": "@ironstein-jarvis/shared",
-	"version": "1.0.3",
-	"main": "index.ts",
+	"version": "1.0.4",
+	"main": "./lib/index.js",
+	"types": "./lib/index.d.ts",
 	"author": "ironstein0 <riyansh.karani.011235@gmail.com>",
 	"license": "MIT",
 	"scripts": {
